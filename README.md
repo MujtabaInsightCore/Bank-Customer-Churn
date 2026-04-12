@@ -1,13 +1,13 @@
-# Bank-Customer-Churn
+# Bank Customer Churn
 
 This dataset contains detailed information about bank customers and is used to analyze and predict customer churn. Churn refers to customers who stop using the bank’s services.
 The dataset includes 10,000 customer records with 18 features, covering demographic details, account information, and customer behavior. 
 The main objective is to identify patterns that lead to customer churn and build predictive models to help businesses retain customers.
-You’re right to question that. I added extra sections, but if your goal is to match that GitHub style, then we should keep it **strict and clean** like the original.
+You’re right to question that. I added extra sections, but if your goal is to match that GitHub style, then we should keep it strict and clean like the original.
 
 # Dataset Overview
 
-This dataset contains customer information used to analyze and predict customer churn. It includes demographic details, account-related data, and customer behavior attributes.
+This dataset contains customer information used to analyze and predict customer churn. It includes demographic details, account related data, and customer behavior attributes.
 
 * Total Records: 10,000
 * Total Features: 18
